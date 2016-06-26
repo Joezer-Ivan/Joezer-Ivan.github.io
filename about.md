@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a currently a computer engineering student, and will be graduating in 2017. I am passionate about free software technologies, and advocate for the use of free software in my circle of influence... and I like my coffee black. Cheers!</p>
+<p>I am currently a computer engineering student, and will be graduating in 2017. I am passionate about free software technologies, and advocate for the use of free software in my circle of influence... and I like my coffee black. Cheers!</p>
 
 <h2>Skills</h2>
 
