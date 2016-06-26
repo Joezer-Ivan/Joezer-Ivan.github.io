@@ -43,11 +43,11 @@ github: Joezer-Ivan
 email: joezerivan@gmail.com
 
 authors:
-    Joezer Ivan:
+    ivan:
         name: Joezer Ivan
         bio: Student | Programmer | Lover of pizzas
         external-image: true
-        picture: assets/images/profile.jpg
+        picture: http://Joezer-Ivan.github.io/assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -63,7 +63,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
