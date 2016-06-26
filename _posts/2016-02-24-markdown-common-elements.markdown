@@ -9,7 +9,7 @@ tag:
 - elements
 blog: true
 star: true
-author: johndoe
+author: ivan
 description: Markdown summary with different options
 ---
 
