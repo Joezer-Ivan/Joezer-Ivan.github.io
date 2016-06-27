@@ -25,6 +25,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-<li><b><a href="https://github.com/SJIT-Hackerspace/hackerspace">Hacker_Space</a></b>: An online competitive coding platform, built using Django, and the HackerRank API</li>
-	<li><b><a href="https://github.com/SJIT-GLUG/conoscenza2k15">Conoscenza 2k15</a></b>: A responsive website, built for a college event</li>
+<li><a href="https://github.com/SJIT-Hackerspace/hackerspace">Hacker_Space</a>: An online competitive coding platform, built using Django, and the HackerRank API</li>
+	<li><a href="https://github.com/SJIT-GLUG/conoscenza2k15">Conoscenza 2k15</a>: A responsive website, built for a college event</li>
 </ul>
