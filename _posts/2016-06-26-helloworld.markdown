@@ -17,5 +17,4 @@ Hello, World!
 Starting off with the traditional Hello, World! string, being a programmer.
 This blog will contain my life's rants and any other interesting stuff that I come across during my insignificant existance.
 
-Let me know your thoughts in the comments section below.
 Cheers!
