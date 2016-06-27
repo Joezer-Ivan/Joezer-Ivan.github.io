@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://Joezer-Ivan.github.io/markdown-extra-components/</loc>
-<lastmod>2016-02-24T22:48:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://Joezer-Ivan.github.io/helloworld/</loc>
 <lastmod>2016-02-24T22:44:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://Joezer-Ivan.github.io/markdown-common-elements/</loc>
-<lastmod>2016-02-24T22:44:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://Joezer-Ivan.github.io/indigo-jekyll-theme/</loc>
-<lastmod>2016-01-23T22:10:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://Joezer-Ivan.github.io/404</loc>
